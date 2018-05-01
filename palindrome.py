@@ -1,3 +1,4 @@
+# May 01 2018
 # This program checks a user input and if it is a palindrome (reads the same forwards and backwards).
 
 print("Palindrome - a word that is reads the same forwards and backwards")
