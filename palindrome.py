@@ -14,5 +14,10 @@ def palindrome():
         palindrome()
 palindrome()
 
+# Here we define a function under the name 'palindrome()' so that the user can try again if the input is not a palindrome.
+# Also, note that the syntax used on line 9 is an "extended slice", which allows the user input to be reversed.
+# This reversed input is stored under the string named 'rev'.
+# The program compares 'rev' to the original ('inp') to see if they are the same.
+# If they are identical, then the user input is a palindrome and the program informs the user of such.
 
 
